@@ -1,9 +1,20 @@
-resonance-mqtt2modbus-bridge
-============================
+<a href="http://gz.technology" target="_blank">![logo](doc/logo.png)</a>
 
-Controling modbus servo stepper with mqtt protocole
+# MQTT to modbus bridge
 
-### About
+## About
+This project is about bridging mqtt with modbus. The purpose is to control modbus servo stepper motor with mqtt protocol.
 
-This is your project's README.md file. It helps users understand what your
-project does, how to use it and anything else they may need to know.
+## Built With
+* [Atom](https://atom.io) - An amazing text editor
+* [node-red](https://nodered.org)
+
+## Hardware
+* Olimex A64 with minimal armbian
+
+## License
+This project is licensed under [MIT license](http://opensource.org/licenses/mit-license.php)
+
+## Project status
+- Prototype built and tested.
+- Firmware R1 completed.
