@@ -1,0 +1,12 @@
+{
+    "name": "resonance-mqtt2modbus-bridge",
+    "description": "Controling modbus servo stepper with mqtt protocole",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flow.json",
+            "credentialsFile": "flow_cred.json"
+        }
+    }
+}
